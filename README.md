@@ -1,11 +1,11 @@
-## Demo Page
+### 1. Choose any image (jpg, png..) from your computer
+### 2. API detects the image and makes bounding box at face
+### 3. When bounding box appears at the image, Computer crops the image
+### 4. Cropping image appears to another display
+### 5. The cropping image can downloaded to your computer
 
-[Demo App](https://supachaic.github.io/react-face-recognition/)
+```
+npm install
+```
 
-## Medium
-
-[Facial Recognition SPA for BNK48 Idol group using React and face-api.js](https://medium.com/@supachaic/facial-recognition-spa-for-bnk48-idol-group-using-react-and-face-api-js-ad62b43ec5b6)
-
-## License
-
-MIT
++ There are other function at this code, so I'll modify the code soon.
